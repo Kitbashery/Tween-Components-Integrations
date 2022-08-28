@@ -1,5 +1,5 @@
 # Tween-Components-Integrations
-Integrations between Tween-Components and 3rd party assets.
+Integrations between Kitbashery's [Tween-Components](https://github.com/Kitbashery/Tween-Components) and 3rd party assets.
 
 ### Integrations:
 [Kinematic Character Controller](https://assetstore.unity.com/packages/tools/physics/kinematic-character-controller-99131)
